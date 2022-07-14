@@ -9,3 +9,5 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to build fires (in a safe environment).
 
+
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manutej&theme=vue-dark&custom_title=Languages&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
