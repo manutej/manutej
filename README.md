@@ -12,4 +12,6 @@
 
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manutej&theme=vue-dark&custom_title=Languages&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/manutej/music-recommender"><img align="center" style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=<your-github-username>&repo=<repo-name>&theme=vue-dark" /></a>
+<a href="https://github.com/manutej/music-recommender"><img align="center" style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=manutej&repo=music-recommender&theme=vue-dark" /></a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=manutej.manutej)
