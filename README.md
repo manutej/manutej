@@ -15,6 +15,8 @@
 
 <a href="https://github.com/manutej/music-recommender"><img align="center" style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=manutej&repo=music-recommender&theme=vue-dark" /></a>
 
+<a href="https://github.com/manutej/college-bound"><img align="center" style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=manutej&repo=music-recommender&theme=vue-dark" /></a>
+
 <a href="https://github.com/manutej/blackjack"><img align="center" style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=manutej&repo=blackjack&theme=vue-dark" /></a>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=manutej&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
