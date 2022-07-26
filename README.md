@@ -17,6 +17,8 @@
 
 <a href="https://github.com/manutej/college-bound"><img align="center" style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=manutej&repo=college-bound&theme=vue-dark" /></a>
 
+<a href="https://github.com/manutej/reddit_scraping_classification"><img align="center" style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=manutej&repo=reddit_scraping_classification&theme=vue-dark" /></a>
+
 <a href="https://github.com/manutej/blackjack"><img align="center" style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=manutej&repo=blackjack&theme=vue-dark" /></a>
 
 
