@@ -1,12 +1,11 @@
 
 
-- 🔭 I’m currently working on a data science blog and virtual voice-assistant.
-- 🌱 I’m currently learning Google Cloud Certification and advanced MLOps.
-- 👥 I’m looking to collaborate on any music or art related technical projects!
-- 🤔 I’m looking for help with translating some Javascript API responses to Python.
+- 🔭 I’m currently working on an all in one productivity tool powered by agentic MCP tools
+- 🌱 I’m currently mastering MCP Agents
+- 👥 I’m looking to collaborate on any music or artistic technical / educational projects (check out CETI Organization)
+- 🤔 I’m looking for additional APPRENTICES in my program. 
 - 💬 Ask me about why I prefer Augmented Intelligence over Artificial Intelligence.
 - 📫 How to reach me: manutej@gmail.com
-- 😄 Pronouns: He/Him
 - 🔥 Fun fact: I love to build fires (in a safe environment).
 
 [![Activity](https://github-readme-stats.vercel.app/api?username=manutej&count_private=true&show_icons=true&include_all_commits=true&theme=vue-dark&custom_title=Activity)](https://github.com/anuraghazra/github-readme-stats)
